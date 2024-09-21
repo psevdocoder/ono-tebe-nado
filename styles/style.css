@@ -27,7 +27,7 @@
 }
 
 .header__link {
-    color: #000;
+    color: black;
     font-weight: 400;
     font-size: 18px;
     text-underline-offset: 5px;
@@ -48,7 +48,7 @@
     font-weight: 400;
     font-size: 18px;
     line-height: 135%;
-    color: #000;
+    color: black;
     margin-right: 63px;
 }
 
@@ -81,7 +81,7 @@
     font-size: 100px;
     line-height: 115%;
     text-transform: uppercase;
-    color: #fff;
+    color: white;
     display: block;
     margin-bottom: 10px;
 }
@@ -125,7 +125,7 @@
     font-size: 22px;
     line-height: 127%;
     text-transform: uppercase;
-    color: #fff;
+    color: white;
     word-spacing: 19px;
 }
 
@@ -136,8 +136,8 @@
     font-size: 22px;
     text-transform: uppercase;
     text-align: center;
-    color: #fff;
-    border: 1px solid #fff;
+    color: white;
+    border: 1px solid white;
     padding: 12px 32px;
 }
 
@@ -149,7 +149,7 @@
     font-weight: 700;
     font-size: 40px;
     text-transform: uppercase;
-    color: #000;
+    color: black;
     text-indent: 40px;
     margin-bottom: 24px;
 }
@@ -204,7 +204,7 @@
     text-transform: uppercase;
     text-decoration: underline;
     text-decoration-skip-ink: none;
-    color: #fff;
+    color: white;
     margin: 51px 40px 0px;
     position: relative;
     z-index: 2;
@@ -214,7 +214,7 @@
     font-weight: 400;
     font-size: 20px;
     line-height: 120%;
-    color: #fff;
+    color: white;
     margin: 0 40px 48px;
     position: relative;
     z-index: 2;
@@ -224,7 +224,7 @@
     display: block;
     font-weight: 400;
     font-size: 20px;
-    color: #000;
+    color: black;
     margin-top: 30px;
     text-indent: 40px;
     text-decoration: underline;
@@ -244,7 +244,7 @@
 }
 
 .about__logo {
-    background-color: #000;
+    background-color: black;
     border-radius: 130px;
     width: 240px;
     height: 240px;
@@ -261,7 +261,7 @@
     font-weight: 700;
     font-size: 40px;
     text-transform: uppercase;
-    color: #000;
+    color: black;
     align-self: flex-start;
     margin-top: 101px;
     margin-bottom: 100px;
@@ -272,7 +272,7 @@
     font-size: 20px;
     line-height: 120%;
     letter-spacing: 0.01em;
-    color: #000;
+    color: black;
     margin-bottom: 24px;
 }
 
@@ -300,7 +300,7 @@
 .footer__menu-link {
     font-weight: 400;
     font-size: 18px;
-    color: #000;
+    color: black;
     text-underline-offset: 5px;
 }
 
