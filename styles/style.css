@@ -298,8 +298,8 @@
     display: flex;
 }
 
-.footer__menu-list-item
-.footer__menu-link_active {
+.footer__menu-link_active 
+.footer__menu-list-item {
     text-decoration: none;
 }
 
